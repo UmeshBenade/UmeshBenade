@@ -5,7 +5,6 @@
 <p align="left">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Data%20Analyst%20skilled%20in%20SQL%20databases%2C%20Advanced%20Excel%2C%20and%20Power%20BI%20dashboards&animation=typing&color=030c2c&background=00000000&size=22&width=1100&height=60&center=false&vCenter=true&repeat=true" alt="Data Analyst skilled in SQL databases, Advanced Excel, and Power BI dashboards"/>
 </p>
-<h3 align="center">Data Analyst skilled in SQL databases, Advanced Excel, and Power BI dashboards</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umeshbenade&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="umeshbenade" />
