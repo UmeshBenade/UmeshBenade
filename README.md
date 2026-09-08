@@ -4,9 +4,23 @@
 </p>
 <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Data%20Analyst%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20Python%3BBuilding%20Data-Driven%20Solutions%3BTransforming%20Data%20into%20Business%20Insights%20📊%3BOpen%20to%20Data%20Analytics%20Opportunities%20🎯&animation=typing&color=030c2c&background=00000000&size=25&width=1100&height=50&center=true&vCenter=true&repeat=true&font=Calibri" alt="Data Analyst | SQL | Excel | Power BI | Python"/>
-</p>
+
+---
+
+<h2 align="center">🏗️ Building Data-Driven Solutions</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umeshbenade&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="umeshbenade" />
+  Passionate about Data Analytics, Business Intelligence, and Data Warehousing.<br>
+  I design and build data warehouses and data lakes, develop dashboards,<br>
+  automate reporting, and transform raw data into actionable insights.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UmeshBenade&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/UmeshBenade?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/UmeshBenade?label=Stars&style=flat-square&color=0e75b6" alt="Stars"/>
+  <img src="https://img.shields.io/github/public-repos/UmeshBenade?label=Public%20Repos&style=flat-square&color=0e75b6" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/last-commit/UmeshBenade/UmeshBenade?label=Last%20Updated&style=flat-square&color=0e75b6" alt="Last Updated"/>
 </p>
 
 ---
