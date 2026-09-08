@@ -34,9 +34,9 @@
   🛠️ <strong>5 years of professional experience</strong> in Technical Support &amp; IT troubleshooting<br>
   🗄️ Skilled in <strong>SQL Server, Data Warehousing &amp; Data Analysis</strong><br>
   📊 Building <strong>interactive dashboards</strong> and reports using <strong>Power BI &amp; Excel</strong><br>
-  🐍 Learning <strong>Python &amp; DAX</strong> for data analysis and automation<br>
+  🌱 Currently learning <strong>Python &amp; DAX</strong> for data analysis and automation<br>
   💡 Passionate about turning <strong>data into actionable business insights</strong><br>
-  🎯 Open to <strong>Entry-Level Data Analyst Opportunities</strong>
+  🎯 Actively seeking <strong>Entry-Level Data Analyst Opportunities</strong>
 </p>
 
 ---
