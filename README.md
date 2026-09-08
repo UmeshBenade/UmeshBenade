@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70858C&height=200&section=header&text=Hi%20👋,%20I'm%20Umesh%20Benade&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=030c2c&height=200&section=header&text=Hi%20👋,%20I'm%20Umesh%20Benade&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
 </p>
 
 <h3 align="center">Data Analyst skilled in SQL databases, Advanced Excel, and Power BI dashboards</h3>
