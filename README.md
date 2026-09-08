@@ -77,7 +77,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solo_rider_889" height="30" width="40" />
 
 <a href="mailto:umesh.benade4@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40"/>
 </a>
 </p>
 
