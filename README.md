@@ -1,41 +1,141 @@
 <h1 align="center">Hi 👋, I'm UmeshBenade</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="umeshbenade" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="solo_rider_889" height="30" width="40" /></a>
+
+<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel | Python</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umeshbenade/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://www.instagram.com/solo_rider_889/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umeshbenade&label=Profile%20views&color=0e75b6&style=flat"
+       alt="umeshbenade" />
+</p>
 
+---
 
+## 👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshbenade&label=Profile%20views&color=0e75b6&style=flat" alt="umeshbenade" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshbenade" alt="umeshbenade" /></a> </p>
-
-- 🔭 I’m currently working on [SQL Server Data Warehouse Project](https://github.com/UmeshBenade/sql-data-warehouse-project)
+- 🔭 I’m currently working on **SQL Server Data Warehouse Project**
 
 - 🌱 I’m currently learning **Python, DAX, and Advanced Power BI Modeling**
 
+- 📊 I’m interested in **Data Analysis, Business Intelligence, SQL, Power BI, and Data Visualization**
+
 - 📫 How to reach me **umesh.benade4@gmail.com**
 
-- ⚡ Fun fact **Hard work is worthless for those that don't believe in themselves**
+- ⚡ Fun fact: **Hard work is worthless for those that don't believe in themselves**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 Featured Project
+
+### 🏢 SQL Server Data Warehouse Project
+
+A complete data warehouse project using **SQL Server**, covering data ingestion, transformation, modeling, and analytical reporting.
+
+🔗 **[View Project on GitHub](https://github.com/UmeshBenade/sql-data-warehouse-project)**
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="umeshbenade" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="solo_rider_889" height="30" width="40" /></a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+       alt="Linux"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+       alt="Microsoft SQL Server"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python"
+       width="40"
+       height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SVG/Power-BI.svg"
+       alt="Power BI"
+       width="40"
+       height="40"/>
+</a>
+
 </p>
 
-<p align="left">
-<a href="https://linkedin.com/in/Umesh Benade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umeshbenade" height="30" width="40" /></a>
-<a href="https://instagram.com/solo_rider_889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solo_rider_889" height="30" width="40" /></a>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&locale=en"
+       alt="UmeshBenade GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshbenade&show_icons=true&locale=en&layout=compact" alt="umeshbenade" /></p>
+## 🔥 GitHub Streak
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&locale=en" alt="umeshbenade" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade"
+       alt="UmeshBenade GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&" alt="umeshbenade" /></p>
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshbenade&show_icons=true&locale=en&layout=compact"
+       alt="UmeshBenade Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umeshbenade"
+       alt="UmeshBenade GitHub Trophies" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/umeshbenade/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn"
+       height="30"
+       width="40" />
+</a>
+
+<a href="https://www.instagram.com/solo_rider_889/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="Instagram"
+       height="30"
+       width="40" />
+</a>
+
+</p>
