@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Umesh Benade</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Hi%20👋,%20I'm%20Umesh%20Benade&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
+</p>
+
 <h3 align="center">Data Analyst skilled in SQL databases, Advanced Excel, and Power BI dashboards</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshbenade&label=Profile%20views&color=0e75b6&style=flat" alt="umeshbenade" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshbenade" alt="umeshbenade" /></a> </p>
 
-- 🔭 I’m currently working on [SQL Server Data Warehouse](https://github.com/UmeshBenade/sql-data-warehouse-project)
+* 🔭 I’m currently working on [SQL Server Data Warehouse](https://github.com/UmeshBenade/sql-data-warehouse-project)
 
-- 🌱 I’m currently learning **Python, DAX, and Advanced Power BI Modeling**
+* 🌱 I’m currently learning **Python, DAX, and Advanced Power BI Modeling**
 
-- 📫 How to reach me **umesh.benade4@gmail.com**
+* 📫 How to reach me **[umesh.benade4@gmail.com](mailto:umesh.benade4@gmail.com)**
 
-- ⚡ Fun fact **Hard work is worthless for those that don't believe in themselves**
+* ⚡ Fun fact **Hard work is worthless for those that don't believe in themselves**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade" alt="" /></p>
-
-
-
