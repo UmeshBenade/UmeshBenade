@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Umesh%20Benade&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
 </p>
-<p align="left">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Data%20Analyst%20skilled%20in%20SQL%20databases%2C%20Advanced%20Excel%2C%20and%20Power%20BI%20dashboards&animation=typing&color=030c2c&background=00000000&size=22&width=1100&height=60&center=false&vCenter=true&repeat=true&speed=5" alt="Data Analyst skilled in SQL databases, Advanced Excel, and Power BI dashboards"/>
+<p align="center">
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Data%20Analyst%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20Python%3BBuilding%20Data-Driven%20Solutions%3BTransforming%20Data%20into%20Business%20Insights%20📊%3BOpen%20to%20Data%20Analytics%20Opportunities%20🎯&animation=typing&color=030c2c&background=00000000&size=22&width=1100&height=150&center=true&vCenter=true&repeat=true&font=Arial" alt="Data Analyst | SQL | Excel | Power BI | Python"/>
 </p>
 
 <p align="center">
