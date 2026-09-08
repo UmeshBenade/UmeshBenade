@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umesh Benade</h1>
 <h3 align="center">Data Analyst skilled in SQL databases, Advanced Excel, and Power BI dashboards</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Umeshbenade&label=Profile%20views&color=0e75b6&style=flat" alt="UmeshBenade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshbenade&label=Profile%20views&color=0e75b6&style=flat" alt="umeshbenade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UmeshBenade" alt="UmeshBenade" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshbenade" alt="umeshbenade" /></a> </p>
 
 * 🔭 I’m currently SQL Server Data Warehouse Projectworking on [SQL Server Data Warehouse](https://github.com/UmeshBenade/sql-data-warehouse-project)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/UmeshBenade" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="UmeshBenade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umeshbenade" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umeshbenade" height="30" width="40" /></a>
 <a href="https://instagram.com/solo_rider_889" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solo_rider_889" height="30" width="40" /></a>
 </p>
 
