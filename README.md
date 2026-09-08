@@ -79,6 +79,26 @@
 </p>
 </p>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center" style="border-top: 1px solid #d0d7de; padding-top: 15px;">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
+        </a>
+      </td>
+      <td width="15"></td>
+      <td>
+        <a href="mailto:umesh.benade4@gmail.com">
+          <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 ---
 
 <p align="center">
