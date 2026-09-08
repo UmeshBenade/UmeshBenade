@@ -66,8 +66,8 @@
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
---
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center" style="border-top: 1px solid #d0d7de; padding-top: 5px;">
   <a href="https://linkedin.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30">
