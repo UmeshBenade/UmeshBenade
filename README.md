@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Umesh Benade</h1>
-<h3 align="center">Data Analyst skilled in SQL databases, Advanced Excel, and Power BI dashboards</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="umeshbenade" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="solo_rider_889" height="30" width="40" /></a>
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshbenade&label=Profile%20views&color=0e75b6&style=flat" alt="umeshbenade" /> </p>
 
