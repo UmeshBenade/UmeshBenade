@@ -66,19 +66,12 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
-<a href="https://linkedin.com" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-benade-b88098432" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/solo_rider_889" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solo_rider_889" height="30" width="40" />
-
-<a href="mailto:umesh.benade4@gmail.com">
-<img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/solo_rider_889" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:umesh.benade4@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="30"></a>
 </p>
 
 ---
