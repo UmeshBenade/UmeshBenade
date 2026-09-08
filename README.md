@@ -66,16 +66,6 @@
 
 ---
 
-- 🔭 I’m currently working on [SQL Server Data Warehouse](https://github.com/UmeshBenade/sql-data-warehouse-project)
-
-- 🌱 I’m currently learning **Python, DAX, and Advanced Power BI Modeling**
-
-- 📫 How to reach me **umesh.benade4@gmail.com**
-
-- ⚡ **Hard work is worthless for those that don't believe in themselves**
-
----
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
