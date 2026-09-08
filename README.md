@@ -30,13 +30,13 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  🎓 Data Analyst Fresher with hands-on project experience<br>
-  🛠️ 5 years of professional experience in Technical Support &amp; IT troubleshooting<br>
-  🗄️ Skilled in SQL Server, Data Warehousing &amp; Data Analysis<br>
-  📊 Building interactive dashboards and reports using Power BI &amp; Excel<br>
-  🐍 Learning Python &amp; DAX for data analysis and automation<br>
-  💡 Passionate about turning data into actionable business insights<br>
-  🎯 Open to Entry-Level Data Analyst Opportunities
+  🎓 <strong>Data Analyst Fresher</strong> with hands-on <strong>project experience</strong><br>
+  🛠️ <strong>5 years of professional experience</strong> in Technical Support &amp; IT troubleshooting<br>
+  🗄️ Skilled in <strong>SQL Server, Data Warehousing &amp; Data Analysis</strong><br>
+  📊 Building <strong>interactive dashboards</strong> and reports using <strong>Power BI &amp; Excel</strong><br>
+  🐍 Learning <strong>Python &amp; DAX</strong> for data analysis and automation<br>
+  💡 Passionate about turning <strong>data into actionable business insights</strong><br>
+  🎯 Open to <strong>Entry-Level Data Analyst Opportunities</strong>
 </p>
 
 ---
