@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Umesh%20Benade&fontSize=42&fontColor=000052&fontAlignY=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Umesh%20Benade&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
 </p>
 <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Data%20Analyst%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20Python%3BBuilding%20Data-Driven%20Solutions%3BTransforming%20Data%20into%20Business%20Insights%20📊%3BOpen%20to%20Data%20Analytics%20Opportunities%20🎯&animation=typing&color=030c2c&background=00000000&size=25&width=1100&height=50&center=true&vCenter=true&repeat=true&font=Calibri" alt="Data Analyst | SQL | Excel | Power BI | Python"/>
