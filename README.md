@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/umeshbenade" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umeshbenade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/umesh-benade-b88098432/" target="_blank" rel="noreferrer"><img align="center" src="https://githubusercontent.com" alt="umesh-benade-b88098432" height="30" width="40" /></a>
 <a href="https://instagram.com/solo_rider_889" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solo_rider_889" height="30" width="40" /></a>
 </p>
 
