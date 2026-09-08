@@ -66,7 +66,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+<h3 align="center">🌐 Connect With Me</h2>
 
 <p align="center" style="border-top: 1px solid #d0d7de; padding-top: 15px;">
   <a href="https://linkedin.com" target="_blank" rel="noreferrer">
