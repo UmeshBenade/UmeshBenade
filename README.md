@@ -19,8 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=UmeshBenade&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/UmeshBenade?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/UmeshBenade?label=Stars&style=flat-square&color=0e75b6" alt="Stars"/>
-  <img src="https://img.shields.io/github/public-repos/UmeshBenade?label=Public%20Repos&style=flat-square&color=0e75b6" alt="Public Repos"/>
-  <img src="https://img.shields.io/github/last-commit/UmeshBenade/UmeshBenade?label=Last%20Updated&style=flat-square&color=0e75b6" alt="Last Updated"/>
+  <a href="https://github.com/UmeshBenade/sql-data-warehouse-project">
+    <img src="https://img.shields.io/badge/Public%20Repos-1-0e75b6?style=flat-square" alt="Public Repos"/>
+  </a>
+  <img src="https://img.shields.io/badge/Last%20Updated-today-0e75b6?style=flat-square" alt="Last Updated"/>
 </p>
 
 ---
