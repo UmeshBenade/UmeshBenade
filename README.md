@@ -11,10 +11,27 @@
 
 ---
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">👨‍💻 Programming Languages</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umeshbenade&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="umeshbenade" />
-  </a>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+<h3 align="center">🗄️ Databases &amp; Querying</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20SERVER-D32F2F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
+
+<h3 align="center">📊 Data Visualization &amp; BI Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+<h3 align="center">⚙️ Tools &amp; Version Control</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
