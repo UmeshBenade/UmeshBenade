@@ -74,11 +74,11 @@
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:umesh.benade4@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="30">
   </a>
 </p>
 
