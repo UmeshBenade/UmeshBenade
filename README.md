@@ -79,24 +79,56 @@
 </p>
 
 ---
+<!-- ==================== GITHUB STATS ==================== -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
+    alt="Umesh Benade GitHub Stats"
   />
 </p>
+
+---
+
+<!-- ==================== GITHUB STREAK ==================== -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
+    alt="Umesh Benade GitHub Streak"
   />
 </p>
 
-<h2 align="center">📈 Contribution Activity</h2>
+
+<!-- ==================== LIFETIME CONTRIBUTIONS ==================== -->
+
+<h2 align="center">📈 Lifetime Contribution History</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/lifetime.dark.svg"
+    />
+    <img
+      src="./assets/lifetime.light.svg"
+      alt="Umesh Benade Lifetime GitHub Contribution History"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
+
+<h3 align="center">💻 Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <i>Turning data into insights, one project at a time 📊</i>
+</p>
 
 <p align="center">
   <img 
