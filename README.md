@@ -103,7 +103,3 @@
   />
 </p>
 
-
-
-ts, one project at a time 📊</i>
-</p>
