@@ -80,6 +80,30 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /> </p>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=umeshbenade&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
 
 
