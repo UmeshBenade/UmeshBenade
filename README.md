@@ -79,18 +79,6 @@
 </p>
 
 ---
-<!-- ==================== GITHUB STATS ==================== -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Umesh Benade GitHub Stats"
-  />
-</p>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
