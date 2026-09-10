@@ -78,4 +78,14 @@
   </a>
 </p>
 
+--
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
 
