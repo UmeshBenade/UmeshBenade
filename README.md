@@ -80,8 +80,6 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Stats </h2>
-
 <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /> </p>
 
 
