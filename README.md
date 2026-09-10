@@ -80,18 +80,20 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">⚡ GitHub Stats </h2>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+%F0%9F%9A%80;Coding+%F0%9F%92%BB;Learning+%F0%9F%93%9A;Creating+%F0%9F%94%A5"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <!-- Core GitHub Stats Card -->
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 
