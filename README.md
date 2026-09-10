@@ -80,8 +80,18 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <!-- Core GitHub Stats Card -->
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
