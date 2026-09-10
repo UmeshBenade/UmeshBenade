@@ -80,20 +80,4 @@
 
 --
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshbenade&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true" alt="" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 
