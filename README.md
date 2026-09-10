@@ -104,22 +104,34 @@
 </p>
 
 
-<!-- ==================== LIFETIME CONTRIBUTIONS ==================== -->
+---
 
-<h2 align="center">📈 Lifetime Contribution History</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/lifetime.dark.svg"
-    />
-    <img
-      src="./assets/lifetime.light.svg"
-      alt="Umesh Benade Lifetime GitHub Contribution History"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=umeshbenade&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbenade&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Contribution History</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/238636/umeshbenade"
+    alt="Umesh Benade GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
 
 ---
@@ -129,13 +141,3 @@
 <p align="center">
   <i>Turning data into insights, one project at a time 📊</i>
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=umeshbenade&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
-
-
